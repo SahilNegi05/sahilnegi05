@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))]
+[![MasterHead][(https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 
 I'm a frontend developer who is passionate about building high-quality, user-friendly web applications using ReactJS. I'm also experienced in working with NodeJS to build backend APIs and services that power these applications.
 
