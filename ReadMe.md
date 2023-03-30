@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm a frontend developer who is passionate about building high-quality, user-friendly web applications using ReactJS. I'm also experienced in working with NodeJS to build backend APIs and services that power these applications.
 
 
